@@ -59,4 +59,5 @@ This project focuses on comparing regression approaches and understanding tradeo
 ---
 
 ## Acknowledgments
-Completed as part of the Applied Machine Learning Bootcamp (Columbia University).
+- Completed as part of the Applied Machine Learning Bootcamp (Columbia University).
+- Data set is "House Prices - Advanced Regression Techniques" from Kaggle.com
